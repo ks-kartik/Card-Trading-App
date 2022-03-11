@@ -1,0 +1,6 @@
+# Card-Trading-App 
+CARD TRADING GAME IS A GAME IN WHICH HOLD MULTIPLE CARDS OF DIFFERENT CATEGORIES SUCH AS PLAYER OF A SPORT FROM DIFFERENT TEAMS OR LEAGUES. THEN PLAYERS CAN TRADE THEIR INVENTORY WITH OTHER PLAYERS TO IMPROVE THEIR COLLECTION. BASICALLY, THE MOTIVE IS TO IMPROVE AND EXPAND YOUR COLLECTION. CARDS ARE DIVIDED INTO DIFFERENT CATEGORIES SUCH AS DIFFERENT TYPES OF RARITY (EG:- RARE, COMMON, VERY COMMON ), SO IN THIS CASE, THE GOAL WOULD BE TO HAVE MANY RARE CARDS CAUSE IT WOULD BE DIFFICULT TO GET THEM. 
+## App Screenshots: 
+<div > 
+  <img src="https://github.com/ks-kartik/Card-Trading-App/blob/ss/Screenshot_20220201-221942_Fifa%20Trading%20Cards.jpg" width="400px"</img> <img src="https://github.com/ks-kartik/Card-Trading-App/blob/ss/Screenshot_20220201-221953_Fifa%20Trading%20Cards.jpg" width="400px"</img> <img src="https://github.com/ks-kartik/Card-Trading-App/blob/ss/Screenshot_20220201-222028_Fifa%20Trading%20Cards.jpg" width="400px"</img> <img src="https://github.com/ks-kartik/Card-Trading-App/blob/ss/Screenshot_20220201-222101_Fifa%20Trading%20Cards.jpg" width="400px"</img> <img src="https://github.com/ks-kartik/Card-Trading-App/blob/ss/Screenshot_20220201-222230_Fifa%20Trading%20Cards.jpg" width="400px"</img> 
+</div>
